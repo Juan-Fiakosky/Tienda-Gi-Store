@@ -1,0 +1,83 @@
+[
+	{
+		"id": 1,
+		"name": "Sandalias",
+		"waist": "38",
+		"colour": "nude",
+		"image": "./images/products/foto9.jpeg",
+		"stock": 10,
+		"price": 6000
+	},
+	{
+		"id": 2,
+		"name": "Botas texanas cortas",
+		"waist": "38",
+		"colour": "white and black",
+		"image": "./images/products/foto10.jpeg",
+		"stock": 5,
+		"price": 5500
+	},
+	{
+		"id": 3,
+		"name": "Suecos",
+		"waist": "38",
+		"colour": "black",
+		"image": "./images/products/foto11.jpeg",
+		"stock": 8,
+		"price": 3000
+	},
+	{
+		"id": 4,
+		"name": "Zapatillas",
+		"waist": "39",
+		"colour": "white",
+		"image": "./images/products/foto8.jpeg",
+		"stock": 10,
+		"price": 4500
+	},
+	{
+		"id": 5,
+		"name": "Gomones",
+		"waist": "36",
+		"colour": "orange",
+		"image": "./images/products/foto6.jpg",
+		"stock": 15,
+		"price": 3000
+	},
+	{
+		"id": 6,
+		"name": "Botas cortas",
+		"waist": "37",
+		"colour": "black",
+		"image": "./images/products/foto4.jpg",
+		"stock": 7,
+		"price": 6000
+	},
+	{
+		"id": 7,
+		"name": "Botas texanas",
+		"waist": "38",
+		"colour": "white",
+		"image": "./images/products/foto3.jpg",
+		"stock": 12,
+		"price": 6500
+	},
+	{
+		"id": 8,
+		"name": "Pantuflas",
+		"waist": "39",
+		"colour": "beige",
+		"image": "./images/products/foto12.jpeg",
+		"stock": 11,
+		"price": 3500
+	},
+	{
+		"id": 9,
+		"name": "Zapatillas Gi",
+		"waist": "39",
+		"colour": "nude",
+		"image": "./images/products/foto1.jpeg",
+		"stock": 11,
+		"price": 4500
+	}
+]
